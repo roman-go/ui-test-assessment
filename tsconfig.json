@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2019",
+    "module": "CommonJS",
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["es2020"],
+    "types": ["cypress"],
+    "esModuleInterop": true,
+  },
+  "include": ["**/*.ts"]
+}
